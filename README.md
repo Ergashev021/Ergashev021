@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I am Ergashev
+## 🧠 about me 
+*hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
+![Edu Logo](edu.png)
+# Ta'lim
+*2022-yili **Andijon davlat universitetini tamomlaganman** hozirda dasturlashni puxta o'rganmoqdaman*
+
 
 <!--
 **Ergashev021/Ergashev021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
