@@ -10,7 +10,7 @@
 - ## CSS ## 
 ## C# dasturlash tilini o'rganmoqdaman  **Backend dasturchi bo'lish uchun**
 # Contact me #
-**[Telegram](https://t.me/@ergashev21)** **|** **[Email](t.ergashev2120@gmail.com)**
+**[Telegram](https://t.me/ergashev21)** **|** **[Email](mailto:t.ergashev2120@gmail.com)**
 
 <!--
 **Ergashev021/Ergashev021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
