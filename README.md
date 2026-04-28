@@ -3,7 +3,7 @@
 ## 🧠 about me 
 *hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
 # Ta'lim
-*2022-yili **Andijon davlat universitetini tamomlaganman** hozirda dasturlashni puxta o'rganmoqdaman*
+*2025-yili **Andijon davlat universitetini tamomlaganman** hozirda dasturlashni puxta o'rganmoqdaman*
 # skills 
 - ## C++ ## 
 - ## HTML ## 
