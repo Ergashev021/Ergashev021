@@ -1,14 +1,16 @@
-![GitAccount](/images/rasm1.png)
+
 ## Hi there 👋 I am Ergashev
 ## 🧠 about me 
 *hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
 # Ta'lim
 *2025-yili **Andijon davlat universitetini tamomlaganman** hozirda dasturlashni puxta o'rganmoqdaman*
+
 # skills 
 - ## C++ ## 
 - ## HTML ## 
 - ## CSS ## 
 ## C# dasturlash tilini o'rganmoqdaman  **Backend dasturchi bo'lish uchun**
+![GitAccount](/images/rasm1.png)
 # Contact me #
 **[Telegram](https://t.me/ergashev21)** **|** **[Email](mailto:t.ergashev2120@gmail.com)**
 
