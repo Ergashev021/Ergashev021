@@ -1,10 +1,16 @@
+![GitAccount](/images/rasm1.png)
 ## Hi there 👋 I am Ergashev
 ## 🧠 about me 
 *hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
-![Edu Logo](edu.png)
 # Ta'lim
 *2022-yili **Andijon davlat universitetini tamomlaganman** hozirda dasturlashni puxta o'rganmoqdaman*
-
+# skills 
+- ## C++ ## 
+- ## HTML ## 
+- ## CSS ## 
+## C# dasturlash tilini o'rganmoqdaman  **Backend dasturchi bo'lish uchun**
+# Contact me #
+**[Telegram](https://t.me/@ergashev21)** **|** **[Email](t.ergashev2120@gmail.com)**
 
 <!--
 **Ergashev021/Ergashev021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
