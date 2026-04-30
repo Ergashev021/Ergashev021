@@ -8,16 +8,17 @@
 - 💻 Focused on Backend Development (C# & .NET)  
 - 📈 Continuously improving my programming skills  
 - 🎯 Goal: Become a strong Backend Engineer  
+### Currently Leraning
 
-# skills 
-- ## C++ ## 
-- ## HTML ## 
-- ## CSS ## 
-## C# dasturlash tilini o'rganmoqdaman  **Backend dasturchi bo'lish uchun**
-![GitAccount](/images/rasm1.png)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,sqlserver" />
+<h2 style = "Center"> GitHub Stats </h2> 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ergashev021&show_icons=true&theme=tokyonight)
+
 # Contact me #
 **[Telegram](https://t.me/ergashev21)** **|** **[Email](mailto:t.ergashev2120@gmail.com)**
-
+## 🚀 Goals  
+### Consistency today. Mastery tomorrow.
 <!--
 **Ergashev021/Ergashev021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
