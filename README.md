@@ -1,10 +1,13 @@
 
  <h1 align="center">Hi 👋, I'm Tursunboy </h1>
-<h3 align="center">Backend Developer | C# & .NET Enthusiast</h3>
-# 🧠 About Me 
-*hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
-# Ta'lim
-*2025-yili* **Andijon davlat universitetini tamomlaganman** 
+<h3 align="center"> C# & .NET Enthusiast</h3>
+
+## 🧠 About Me
+- 🎓 Computer Science enthusiast from Uzbekistan  
+- 🏫 Currently working as a school teacher  
+- 💻 Focused on Backend Development (C# & .NET)  
+- 📈 Continuously improving my programming skills  
+- 🎯 Goal: Become a strong Backend Engineer  
 
 # skills 
 - ## C++ ## 
