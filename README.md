@@ -1,6 +1,7 @@
 
-## Hi there 👋 I am Ergashev
-## 🧠 about me 
+ <h1 align="center">Hi 👋, I'm Tursunboy </h1>
+<h3 align="center">Backend Developer | C# & .NET Enthusiast</h3>
+# 🧠 About Me 
 *hozirda informatika fanidan o'qituvchi bo'lib ishlamoqdaman*
 # Ta'lim
 *2025-yili* **Andijon davlat universitetini tamomlaganman** 
